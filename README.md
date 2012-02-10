@@ -10,7 +10,8 @@ Then launch (re-launch) SublimeText and it should work right away.
 
 # Requirements
 
-You need to have `cURL` installed.
+- `cURL` installed
+- [Stylus Bundle](https://github.com/LearnBoost/stylus/tree/master/editors/Stylus.tmbundle)
 
 # COPYRIGHT
 
