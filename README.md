@@ -1,12 +1,20 @@
 # Installation
 
-Go to your SublimeText2 Packages directory and clone the repository in a folder of your choosing. See the example below (on Windows) via git bash.
+Go to your SublimeText2 Packages directory and clone the repository in a folder of your choosing. See the example below.
+
+### Windows (via Git Bash)
 
 `cd ~/AppData/Roaming/"Sublime Text 2"/Packages`
 
+### MAC OSX 
+
+`cd ~/Library/"Application Support"/"Sublime Text 2"/Packages`
+
+Clone the repository:
+
 `git clone https://edmundask@github.com/edmundask/SublimeText2-Stylus2CSS.git Stylus2CSS`
 
-Then launch (re-launch) SublimeText and it should work right away.
+then launch (re-launch) SublimeText and it should work right away.
 
 # Requirements
 
